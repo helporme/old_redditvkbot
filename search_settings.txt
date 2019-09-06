@@ -1,0 +1,2 @@
+{'reddit':{'name': 'meme','sort': 'new','limit': 10},'vk':{'publish_delay': 60*3}, 'delay':30}
+{'reddit':{'name': 'dank_meme','sort': 'new','limit': 10},'vk':{'publish_delay': 60*10}, 'delay':30}

@@ -1,0 +1,1 @@
+{'vk': {'access_token': None,'group_id': None},'reddit': {'client_id': None, 'client_secret': None, 'user_agent': 'vkreddit by saHpy'}}
